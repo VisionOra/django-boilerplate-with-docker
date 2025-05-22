@@ -1,0 +1,3 @@
+"""
+Leads Analyser application.
+"""
